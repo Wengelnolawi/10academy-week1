@@ -1,1 +1,1 @@
-# 10academy-week1
+# solar-challenge-week1
